@@ -1,0 +1,30 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color</title>
+
+</head>
+<style>
+    div {
+        width: 20%;
+        height: 40%;
+        background-color: white;
+        margin: auto;
+        margin-top: 15%;
+        border-radius: 50%;
+    }
+</style>
+
+<body>
+    <div></div>
+
+
+    <script src="color.js"></script>
+</body>
+
+
+
+</html>
